@@ -1,2 +1,3 @@
-2025/09/22-05:33:38.946 60e8 Creating DB P:\Obstest\Obsidian-Portable\Data\ObsidianAppData\shared_proto_db\metadata since it was missing.
-2025/09/22-05:33:38.954 60e8 Reusing MANIFEST P:\Obstest\Obsidian-Portable\Data\ObsidianAppData\shared_proto_db\metadata/MANIFEST-000001
+2025/09/22-08:31:05.427 6100 Reusing MANIFEST P:\Development\Repository\obs-tutor\OBSidian-installer-files\Obsidian-Portable\Data\ObsidianAppData\shared_proto_db\metadata/MANIFEST-000001
+2025/09/22-08:31:05.429 6100 Recovering log #3
+2025/09/22-08:31:05.430 6100 Reusing old log P:\Development\Repository\obs-tutor\OBSidian-installer-files\Obsidian-Portable\Data\ObsidianAppData\shared_proto_db\metadata/000003.log 
