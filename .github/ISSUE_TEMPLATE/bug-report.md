@@ -3,7 +3,7 @@ name: Bug Report
 about: Сделайте отчёт об ошибке, чтобы помочь нам усовершенствоваться
 title: "[BUG]"
 labels: bug
-assignees: notch4ff4
+assignees:
 
 ---
 
